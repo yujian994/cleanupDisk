@@ -1,4 +1,8 @@
-## cleanupDisk
-This is [an example](http://example.com/ "Title") inline link.
+# cleanupDisk
 
-[This link](http://example.net/) has no title attribute.
+### ini配置文件格式：
+### *[section]
+### *key1=value1
+### *key2=value2
+### 主要功能：
+### *如果是root用户，
